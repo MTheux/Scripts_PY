@@ -5,4 +5,4 @@ Alguns scritps feitos por min em PY para os testes em WEB
 
 # Apoie este projeto
 
-<a href="https://www.buymeacoffee.com/mferreiranr" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-green.png" alt="Buy Me A Coffee" style="height: 317px !important;width: 317px !important;" ></a>
+<a href="https://www.buymeacoffee.com/mferreiranr" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-green.png" alt="Buy Me A Coffee" style="height: 90px !important;width: 317px !important;" ></a>
